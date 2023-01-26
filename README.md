@@ -42,8 +42,8 @@ DayJs
 
 
 ## Websites
-Github Repo: 
-Deployed website: 
+Github Repo: https://github.com/Epalma98/md5-challenge 
+Deployed website: https://epalma98.github.io/md5-challenge/
 
 ## Credit
 Github: Epalma98
